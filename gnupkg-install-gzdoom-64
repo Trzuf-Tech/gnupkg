@@ -1,0 +1,4 @@
+cd package
+wget https://github.com/coelckers/gzdoom/releases/download/g4.4.2/gzdoom_4.4.2_amd64.deb
+cd package
+sudo dpkg -i gzdoom_4.4.2_amd64.deb
